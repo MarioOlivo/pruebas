@@ -132,3 +132,4 @@ function validaMayuscula(cadena) {
 
 let cade ='mario'
 console.log(validaMayuscula(cade));
+console.log(validaMayuscula(cade));
